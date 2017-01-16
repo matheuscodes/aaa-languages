@@ -1,0 +1,14 @@
+{
+  "name": "aaa-languages",
+  "version": "1.0.0",
+  "description": "Language files for the Advanced Archery Application.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuscodes/aaa-languages.git"
+  },
+  "author": "Matheus Borges Teixeira",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/matheuscodes/aaa-languages/issues"
+  }
+}
