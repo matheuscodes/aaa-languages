@@ -1,0 +1,45 @@
+{
+  "title":"Trainings Management",
+  "trainingTypes":{
+    "WARMUP": "Warm up",
+    "WARMOUT": "Warm out",
+    "BOARD": "Board",
+    "TARGET": "Target"
+  },
+
+  "tile":{
+    "title":"{{totalArrows}} arrows shot.",
+    "subtitleTime":"Total training time: {{time}}, {{arrowRate}} arrows per minute.",
+    "subtitle":"{{date,dateLong}}",
+    "headers":{
+      "distance":"Distance"
+    }
+  },
+
+  "messages":{
+    "newSaved":"New training was saved!",
+    "newError":"New training could not be saved!",
+    "listError":"Trainings could not be loaded!",
+    "emptyError":"Distance cannot be empty!",
+    "deleted":"Training was deleted!",
+    "deletedError":"Training could not be deleted!"
+  },
+  "newTraining":{
+    "title":"New Training",
+    "subtitle":"Please fill in the information below to create a new training.",
+    "button":"New Training",
+    "headers":{
+      "distance":"Distance"
+    },
+    "dateDatepicker":{
+      "label":"Date"
+    },
+    "seasonSelectField":{
+      "label":"Season"
+    },
+    "distanceTextField":{
+      "label":"Distance",
+      "hint":"Distance in m"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title":"General Overview",
+  "events":{
+    "title":"Events",
+    "subtitle":"Within next months.",
+    "start":"{{date,dateTimeLong}}",
+    "days":"{{count}} day.",
+    "days_plural":"{{count}} days."
+  },
+  "year":{
+    "title":"Year Overview",
+    "subtitle":"Last year overview.",
+    "header":{
+      "year":"Year",
+      "month":"Month",
+      "total":"Total",
+      "grade":"Grade"
+    }
+  },
+  "arrows":{
+    "title":"Arrow counts",
+    "subtitle":"Shot in the last weeks.",
+    "date":"{{date,dateLong}}"
+  },
+  "rings":{
+    "title":"Ring value distribution",
+    "subtitle":"Percentage of arrows that hit the given rings.",
+    "graph":{
+      "distributionMonth": "Last month",
+      "distributionQuarter": "Last quarter",
+      "distributionHalf": "Last half"
+    }
+  },
+  "assessments":{
+    "title":"Assessments Overview",
+    "subtitle":"Amount of tens and average score per end."
+  },
+  "seasons":{
+    "title":"Current Seasons",
+    "subtitle":"All ongoing seasons"
+  }
+}

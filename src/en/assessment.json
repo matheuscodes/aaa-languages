@@ -1,0 +1,82 @@
+{
+  "title":"Assessments Management",
+  "submitEnd":"Submit end",
+  "rings":"Rings",
+  "total":"Total",
+  "totalPoints":"Total Points",
+  "totalTens":"Total 10s",
+  "totalXs":"Total Xs",
+  "addEnd":"Add end",
+  "newEndTitle":"Adding new end",
+  "addRound":"Add round",
+  "messages":{
+    "newSaved":"New assessment was saved!",
+    "newError":"New assessment could not be saved!",
+    "listError":"Assessments could not be loaded!",
+    "deleted":"Assessment was deleted!",
+    "deletedError":"Assessment could not be deleted!"
+  },
+  "tile":{
+    "title":"{{date,dateLong}} {{targetName}} at {{distance}}m",
+    "subtitle":"{{date,dateLong}}"
+  },
+  "newAssessment":{
+    "title":"New Assessment",
+    "subtitle":"Please fill in the information below to create a new assessment.",
+    "button":"New Assessment",
+    "seasonSelectField":{
+      "label":"Season"
+    },
+    "dateDatepicker":{
+      "label":"Date"
+    },
+    "distanceTextField":{
+      "label":"Distance",
+      "hint":"Distance in m"
+    },
+    "targetSelectField":{
+      "label":"Target"
+    },
+    "eventSelectField":{
+      "label":"Event"
+    },
+    "temperatureTextField":{
+      "label":"Temperature",
+      "hint":"Temperature in °C"
+    },
+    "weatherSelector":{
+      "hint":"Weather"
+    },
+    "windTextField":{
+      "label":"Wind speed",
+      "hint":"Wind speed in m/s"
+    },
+    "windDirectionSelector":{
+      "hint":"Wind direction"
+    },
+    "shootDirectionSelector":{
+      "hint":"Shoot direction"
+    }
+  },
+  "report":{
+    "noRounds":"There are no rounds!",
+    "totalPoints":"{{totalScore}} rings out of {{maxScore}}",
+    "totalGold":"10s: {{totalTens}} Xs: {{totalXs}}",
+    "averagePoints":"Average ring score: {{averageScore}}",
+    "verifiedAdmin":"Verified by {{verifierAdmin.name}}",
+    "verifiedArcher":"Verified by {{verifierArcher.name}}"
+  },
+  "graph":{
+    "values": {
+      "half":"Results from last half",
+      "month":"Results from last month",
+      "averageScore":"Average Score"
+    },
+    "counts": {
+      "half":"Tens from last half",
+      "month":"Tens from last month",
+      "xs":"X count",
+      "tens":"Ten count"
+    }
+  }
+}

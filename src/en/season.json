@@ -1,0 +1,52 @@
+{
+  "title":"Seasons Management",
+  "newSeason":{
+    "title":"New Season",
+    "subtitle":"Please fill in the information below to create a new season.",
+    "button":"New Season",
+    "startDateDatepicker":{
+      "label":"Season start"
+    },
+    "endDateDatepicker":{
+      "label":"Season end"
+    },
+    "nameTextField":{
+      "label":"Season name",
+      "hint":"Type in the name of the season"
+    },
+    "equipmentSelectField":{
+      "undefined":"No equipment",
+      "label":"Equipment"
+    },
+    "arrowCountTextField":{
+      "label":"Total # wk {{week}}",
+      "hint":"# of arrows"
+    },
+    "targetShareTextField":{
+      "label":"Target # wk {{week}}",
+      "hint":"# of arrows"
+    }
+  },
+
+  "messages":{
+    "newSaved":"New season was saved!",
+    "newError":"New season could not be saved!",
+    "listError":"Season could not be loaded!",
+    "deleted":"Season was deleted!",
+    "deletedError":"Season could not be deleted!"
+  },
+
+  "graphLabels":{
+    "data":{
+      "totalPlan":"Total Plan",
+      "techniqueTotals":"Technique Totals",
+      "techniqueShare":"Technique Totals",
+      "targetTotals":"Target Totals",
+      "resultTotals":"Result Totals",
+      "strengthTraining":"Strength Training"
+    }
+  },
+  "tile":{
+    "subtitle":"{{start,dateLong}} to {{end,dateLong}}"
+  }
+}

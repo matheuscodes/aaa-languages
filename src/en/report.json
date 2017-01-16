@@ -1,0 +1,36 @@
+{
+  "title":"Monthly Season Report",
+  "subtitle":"Detailed and daily information regarding training and performances",
+  "tableTitle":"{{date,monthLong}}",
+  "dailyGraphTitle":"Daily Overview",
+  "seasonGraphTitle":"Season Overview",
+  "seasonSelectField":{
+    "label":"Season"
+  },
+  "yearSelectField":{
+    "label":"Year"
+  },
+  "monthSelectField":{
+    "label":"Month"
+  },
+  "noneSelected":"No report selected yet",
+  "warmUps":"Warm Ups",
+  "warmUpsDistance":"{{distance}}m",
+  "trainingsDistance":"{{distance}}m",
+  "trainingsGroup":{
+    "BOARD":"Board",
+    "TARGET":"Target",
+    "ASSESSMENT":"Assessment"
+  },
+  "warmOuts":"Warm Outs",
+  "warmOutsDistance":"{{distance}}m",
+  "techniqueDaily":"Technique Arrows Shot",
+  "totalDaily":"Total Arrows Shot",
+  "techniqueWeekly":"Technique Arrows per week",
+  "totalWeekly":"Total Arrows per week",
+  "resultsDistance":"{{distance}}m",
+  "resultsGroup":"Round {{round}}",
+  "resultsDaily":"Daily average score",
+  "resultsWeekly":"Weekly average score",
+  "calendarWeek":"Week"
+}

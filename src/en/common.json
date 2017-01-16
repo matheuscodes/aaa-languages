@@ -1,0 +1,60 @@
+{
+  "appTitle":"Advanced Archery App",
+  "logout":"Logout",
+  "footlinks":{
+    "about":"About",
+    "impressum":"Impressum",
+    "privacyAndTerms":"Privacy and Terms"
+  },
+  "menuDrawer":{
+    "settings":"Settings",
+    "homePage":"Home",
+    "seasonsPage":"Manage Seasons",
+    "trainingsPage":"Manage Trainings",
+    "assessmentsPage":"Manage Assessments",
+    "reportsPage":"Performance Reports",
+    "helpPage":"Help"
+  },
+  "month":{
+    "short":[
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "long":[
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  },
+  "graphLabels":{
+    "axis":{
+      "arrow_count":"Arrow Count",
+      "results":"Results",
+      "ringDistribution": "Percentage of arrows"
+    }
+  },
+  "calendar":{
+    "week":{
+      "short":"CW"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Login to Advanced Archery",
+  "photoSubtitle": "Photo by {{author}} from {{provider}}",
+  "messages":{
+    "login":"You were successfully logged in!",
+    "loginError":"Oops, there was a problem with the login!",
+    "logout":"You were successfully logged out!"
+  },
+  "loginButton":{
+    "label":"Login"
+  },
+  "emailTextField":{
+    "label":"Email",
+    "hint":"Type in your email"
+  },
+  "passwordTextField":{
+    "label": "Password",
+    "hint": "Type in your password"
+  }
+}
