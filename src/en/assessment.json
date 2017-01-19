@@ -9,8 +9,9 @@
   "addEnd":"Add end",
   "newEndTitle":"Adding new end",
   "addRound":"Add round",
-  "previous":"Previous Assessments",
-  "next":"Next Assessments",
+  "previousButton":"Previous Assessments",
+  "nextButton":"Next Assessments",
+  "detailsButton":"Assessment Details",
   "messages":{
     "newSaved":"New assessment was saved!",
     "newError":"New assessment could not be saved!",
