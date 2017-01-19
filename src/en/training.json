@@ -1,5 +1,7 @@
 {
   "title":"Trainings Management",
+  "previous":"Previous Trainings",
+  "next":"Next Trainings",
   "trainingTypes":{
     "WARMUP": "Warm up",
     "WARMOUT": "Warm out",

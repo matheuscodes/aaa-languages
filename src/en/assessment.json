@@ -9,6 +9,8 @@
   "addEnd":"Add end",
   "newEndTitle":"Adding new end",
   "addRound":"Add round",
+  "previous":"Previous Assessments",
+  "next":"Next Assessments",
   "messages":{
     "newSaved":"New assessment was saved!",
     "newError":"New assessment could not be saved!",
