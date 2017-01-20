@@ -82,8 +82,8 @@
       "tens":"Ten count"
     },
     "rings": {
-      "distributionBefore":"Tens from last half",
-      "distributionNow":"Tens from last month"
+      "distributionBefore":"Season average",
+      "distributionNow":"This assessment"
     }
   }
 }
