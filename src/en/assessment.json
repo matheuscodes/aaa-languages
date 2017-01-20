@@ -62,6 +62,7 @@
     }
   },
   "report":{
+    "title":"{{date,dateLong}} {{target.name}} at {{distance}}m",
     "noRounds":"There are no rounds!",
     "totalPoints":"{{totalScore}} rings out of {{maxScore}}",
     "totalGold":"10s: {{totalTens}} Xs: {{totalXs}}",
