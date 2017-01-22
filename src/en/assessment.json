@@ -11,7 +11,7 @@
   "addRound":"Add round",
   "previousButton":"Previous Assessments",
   "nextButton":"Next Assessments",
-  "detailsButton":"Assessment Details",
+  "detailsButton":"Details",
   "messages":{
     "newSaved":"New assessment was saved!",
     "newError":"New assessment could not be saved!",
@@ -20,8 +20,7 @@
     "deletedError":"Assessment could not be deleted!"
   },
   "tile":{
-    "title":"{{date,dateLong}} {{targetName}} at {{distance}}m",
-    "subtitle":"{{date,dateLong}}"
+    "title":"{{targetName}} at {{distance}}m"
   },
   "newAssessment":{
     "title":"New Assessment",
@@ -62,13 +61,17 @@
     }
   },
   "report":{
-    "title":"{{date,dateLong}} {{target.name}} at {{distance}}m",
+    "title":"{{date,dateLong}} at {{distance}}m",
+    "overviewTitle":"Overview",
+    "comparisonTitle":"Comparison to season average",
+    "weatherTitle":"Weather",
+    "windSpeedInfo":"m/s {{temperature}}°C",
+    "windLabel":"Wind:",
+    "targetLabel":"Target:",
     "noRounds":"There are no rounds!",
     "totalPoints":"{{totalScore}} rings out of {{maxScore}}",
     "totalGold":"10s: {{totalTens}} Xs: {{totalXs}}",
-    "averagePoints":"Average ring score: {{averageScore}}",
-    "verifiedAdmin":"Verified by {{verifierAdmin.name}}",
-    "verifiedArcher":"Verified by {{verifierArcher.name}}"
+    "averagePoints":"Average arrow score: {{averageScore,floatShort}}"
   },
   "graph":{
     "values": {
