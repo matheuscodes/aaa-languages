@@ -11,8 +11,6 @@
 
   "tile":{
     "title":"{{totalArrows}} arrows shot.",
-    "subtitleTime":"Total training time: {{time}}, {{arrowRate}} arrows per minute.",
-    "subtitle":"{{date,dateLong}}",
     "headers":{
       "distance":"Distance"
     }
