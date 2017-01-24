@@ -1,5 +1,5 @@
 {
-  "title":"Seasons Management",
+  "appBarTitle":"Seasons Management",
   "newSeason":{
     "title":"New Season",
     "subtitle":"Please fill in the information below to create a new season.",
@@ -40,7 +40,7 @@
     "data":{
       "totalPlan":"Total Plan",
       "techniqueTotals":"Technique Totals",
-      "techniqueShare":"Technique Totals",
+      "techniqueShare":"Technique Goal",
       "targetTotals":"Target Totals",
       "resultTotals":"Result Totals",
       "strengthTraining":"Strength Training"

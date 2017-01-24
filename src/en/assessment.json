@@ -1,5 +1,5 @@
 {
-  "title":"Assessments Management",
+  "appBarTitle":"Assessments Management",
   "submitEnd":"Submit end",
   "rings":"Rings",
   "total":"Total",
@@ -11,7 +11,7 @@
   "addRound":"Add round",
   "previousButton":"Previous Assessments",
   "nextButton":"Next Assessments",
-  "detailsButton":"Details",
+  "detailsButton":"More Details",
   "messages":{
     "newSaved":"New assessment was saved!",
     "newError":"New assessment could not be saved!",

@@ -1,6 +1,7 @@
 {
-  "title":"Monthly Season Report",
-  "subtitle":"Detailed and daily information regarding training and performances",
+  "appBarTitle":"Performance Reports",
+  "cardTitle":"Monthly Season Report",
+  "cardSubtitle":"Detailed and daily information regarding training and performances",
   "tableTitle":"{{date,monthLong}}",
   "dailyGraphTitle":"Daily Overview",
   "seasonGraphTitle":"Season Overview",

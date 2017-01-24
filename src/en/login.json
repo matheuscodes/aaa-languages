@@ -1,6 +1,6 @@
 {
-  "title": "Login to Advanced Archery",
-  "photoSubtitle": "Photo by {{author}} from {{provider}}",
+  "appBarTitle": "Login to Advanced Archery",
+  "photoSubtitle": "Photo by {{author}} - {{provider}}",
   "messages":{
     "login":"You were successfully logged in!",
     "loginError":"Oops, there was a problem with the login!",

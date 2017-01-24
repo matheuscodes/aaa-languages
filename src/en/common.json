@@ -6,6 +6,14 @@
     "impressum":"Impressum",
     "privacyAndTerms":"Privacy and Terms"
   },
+  "pageTitle":{
+    "homePage":"Home (Advanced Archery App)",
+    "seasonsPage":"Manage Seasons (Advanced Archery App)",
+    "trainingsPage":"Manage Trainings (Advanced Archery App)",
+    "assessmentsPage":"Manage Assessments (Advanced Archery App)",
+    "reportsPage":"Performance Reports (Advanced Archery App)",
+    "helpPage":"Help (Advanced Archery App)"
+  },
   "menuDrawer":{
     "settings":"Settings",
     "homePage":"Home",
