@@ -21,6 +21,7 @@
     "newError":"New training could not be saved!",
     "listError":"Trainings could not be loaded!",
     "emptyError":"Distance cannot be empty!",
+    "seasonError":"Seasons could not be loaded!",
     "deleted":"Training was deleted!",
     "deletedError":"Training could not be deleted!"
   },
