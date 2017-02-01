@@ -19,7 +19,7 @@
   },
   "arrows":{
     "title":"Arrow counts",
-    "subtitle":"Shot in the last weeks.",
+    "subtitle":"For latest trainings.",
     "date":"{{date,dateLong}}"
   },
   "rings":{
