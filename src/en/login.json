@@ -1,5 +1,5 @@
 {
-  "appBarTitle": "Login to Advanced Archery",
+  "appBarTitle": "Welcome to Advanced Archery",
   "photoSubtitle": "Photo by {{author}} - {{provider}}",
   "messages":{
     "login":"You were successfully logged in!",
