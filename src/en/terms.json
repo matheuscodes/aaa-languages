@@ -1,0 +1,39 @@
+{
+  "appBarTitle":"Terms and Conditions",
+  "title":"Terms and Conditions",
+  "subtitle":"Terms according to § 5 on Telemediengesetz",
+  "disclaimer":{
+    "title":"Disclaimer",
+    "content":{
+      "title":"Liability for content",
+      "paragraph":"The contents of our pages and functionalities were created with the greatest care. However, we can not guarantee the correctness, completeness and actuality of its contents. As a service provider, we are responsible for our own content on these pages and functionalities according to the general laws defined on § 7 Abs.1 TMG. According to §§ 8 to 10 TMG, however, we as service providers are not obliged to monitor transmitted or stored third-party information or to investigate circumstances which indicate an illegal activity. Obligations to remove or block the use of information according to general laws remain unaffected. Liability in this respect, however, is only possible from the time of knowledge of a concrete infringement. If we become aware of any such infringements, we will immediately remove such content."
+    },
+    "betaPhase":{
+      "title":"Liability during the development phase",
+      "termination":"The development phase is expected to finish towards the end of 2017 or beginning of 2018.",
+      "paragraph":"Our pages and functionalities are currently in the development phase. Therefore, we can not guarantee that data and information will not be deprecated, deleted or accidentally lost and/or damaged. In such cases, and if necessary, we will do our utmost to restore the data or information through backups, but without obligation it will be possible."
+    },
+    "links":{
+      "title":"Liability for links",
+      "paragraph":"Our pages and functionalities may contain links to external websites of third parties on whose contents we have no influence. Therefore, we can not assume any liability for these third-party contents. The respective provider or operator of the pages is always responsible for the content of the linked pages. The linked pages were checked for possible legal violations at the time of linking. Illegal contents were not recognizable at the time of linking. However, a permanent control of the content of the linked pages is not reasonable without concrete indications of an infringement. If we become aware of legal violations, we will immediately remove such links."
+    }
+  },
+  "rights":{
+    "title":"Rights and licenses",
+    "note1":"Such a license does not meet our requirements for transparency and openness but through the development phase we can not fully ensure that there are no error or security gaps and therefore we would like, before the server code with is released with an open source license, that a detailed auditing, by a reliable auditor, is carried out."
+  },
+  "data":{
+    "title":"Data Protection",
+    "paragraph1":"The use of our website is normally possible without giving personal data. If personal data (for example, name, e-mail addresses, assessments or seasonal plans) is collected on our pages, this is always done on a voluntary basis as far as possible. These data will not be passed on to third parties without your explicit consent (for example, if our trainers' functionalities are developed, we will explicitly request your permission to forward your information).",
+    "paragraph2":"We would like to point out that data transmission on the Internet (for example, when communicating via e-mail) can have security gaps. A complete protection of the data against access by third parties is not possible. We also point out that through the development phase we can not fully guarantee that there are no errors even if we test with the greatest care. If something is found or reported, it will be repaired immediately.",
+    "paragraph3":"The use of our contact data published within the scope of this terms and conditions' obligation by third parties for the transmission of not expressly requested advertising and information material is hereby expressly rejected. The operators of the pages expressly reserve the right to take legal steps in the event of the unsolicited sending of advertising information, for example by spam mail.",
+    "tracking":{
+      "title":"Google Analytics and other statistics",
+      "paragraph":"Our pages and functionalities do not use Google Analytics and will not use it. Our analysis of the usage of the application software is executed by internal data while our server and application software are running. Information about your use of our pages and functionalities (including your IP address) will only be stored on our servers and never transferred to third parties. We will use this information to evaluate your use of the website, to compile reports on website activity for our website operators, and to provide other services related to web usage and Internet usage. We will in no case link your IP address with other data from third parties. By using this application software, you agree to the processing of the data collected about you by our servers in the manner and for the purposes set out above."
+    },
+    "cookies":{
+      "title":"Cookies and LocalStorage",
+      "paragraph":"We use Cookies and LocalStorage to support our pages and functionalities (e.g. language setting and login). You can prevent the use of cookies and LocalStorage by setting your browser software accordingly. However, we would like to point out that in this case you may not be able to fully utilize all the functions of this application software."
+    }
+  }
+}

@@ -3,8 +3,7 @@
   "logout":"Logout",
   "footlinks":{
     "about":"About",
-    "impressum":"Impressum",
-    "privacyAndTerms":"Privacy and Terms"
+    "impressum":"Terms and Conditions"
   },
   "pageTitle":{
     "loginPage":"Advanced Archery App",
@@ -13,7 +12,8 @@
     "trainingsPage":"Manage Trainings (Advanced Archery App)",
     "assessmentsPage":"Manage Assessments (Advanced Archery App)",
     "reportsPage":"Performance Reports (Advanced Archery App)",
-    "helpPage":"Help (Advanced Archery App)"
+    "helpPage":"Help (Advanced Archery App)",
+    "termsPage":"Terms and Conditions (Advanced Archery App)"
   },
   "menuDrawer":{
     "settings":"Settings",
