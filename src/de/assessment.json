@@ -1,0 +1,93 @@
+{
+  "appBarTitle":"Leistungskontrolle Verwaltung",
+  "submitEnd":"Ende einfügen",
+  "rings":"Ringe",
+  "total":"Gesamt",
+  "totalPoints":"Ringzahl",
+  "totalTens":"Gesamt 10s",
+  "totalXs":"Gesamt Xs",
+  "addEnd":"Ende erstellen",
+  "newEndTitle":"Neues Ende absetzen",
+  "addRound":"Runde erstellen",
+  "previousButton":"Vorige Leistungskontrolle",
+  "nextButton":"Nächste Leistungskontrolle",
+  "detailsButton":"Mehr Infos",
+  "messages":{
+    "newSaved":"Neue Leistungskontrolle würde erfolgreich gespeichert!",
+    "newError":"Neue Leistungskontrolle würde nicht gespeichert!",
+    "listError":"Leistungskontrollen konnten nicht heruntergeladen werden!",
+    "deleted":"Leistungskontrolle würde erfolgreich gelöscht!",
+    "deletedError":"Leistungskontrolle würde nicht gelöscht!"
+  },
+  "tile":{
+    "title":"{{targetName}} bei {{distance}}m"
+  },
+  "newAssessment":{
+    "title":"Neue Leistungskontrolle",
+    "subtitle":"Bitte Formular ausfüllen um ein neue Leistungskontrolle zu erstellen.",
+    "button":"Neue Leistungskontrolle",
+    "seasonSelectField":{
+      "label":"Saison"
+    },
+    "dateDatepicker":{
+      "label":"Datum"
+    },
+    "distanceTextField":{
+      "label":"Entfernung",
+      "hint":"Entfernung in m"
+    },
+    "targetSelectField":{
+      "label":"Auflage"
+    },
+    "eventSelectField":{
+      "label":"Event"
+    },
+    "temperatureTextField":{
+      "label":"Temperatur",
+      "hint":"Temperatur in °C"
+    },
+    "weatherSelector":{
+      "hint":"Wetter"
+    },
+    "windTextField":{
+      "label":"Windgeschwindkeit",
+      "hint":"Windgeschwindkeit in m/s"
+    },
+    "windDirectionSelector":{
+      "hint":"Windrichtung"
+    },
+    "shootDirectionSelector":{
+      "hint":"Schießrichtung"
+    }
+  },
+  "report":{
+    "title":"{{date,dateLong}} bei {{distance}}m",
+    "overviewTitle":"Übersicht",
+    "comparisonTitle":"Vergleich zu Saisondurchschnitt",
+    "weatherTitle":"Wetter",
+    "windSpeedInfo":"m/s {{temperature}}°C",
+    "windLabel":"Windrichtung:",
+    "targetLabel":"Schießrichtung:",
+    "noRounds":"Es gibt keine Runde!",
+    "totalPoints":"{{totalScore}} Ringe aus {{maxScore}}",
+    "totalGold":"10s: {{totalTens}} Xs: {{totalXs}}",
+    "averagePoints":"Durchschnittliche Ringzahl: {{averageScore,floatShort}}"
+  },
+  "graph":{
+    "values": {
+      "half":"⌀ Ringzahl letztes Halbjahr",
+      "month":"⌀ Ringzahl letzter Monat",
+      "averageScore":"⌀ Ringzahl"
+    },
+    "counts": {
+      "half":"Zehner letztes Halbjahr",
+      "month":"Zehner letzter Monat",
+      "xs":"X Anzahl",
+      "tens":"Zehn Anzahl"
+    },
+    "rings": {
+      "distributionBefore":"Saisondurchschnitt",
+      "distributionNow":"Diese Leistungskontrolle"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "appBarTitle":"Saison Verwaltung",
+  "newSeason":{
+    "title":"Neue Saison",
+    "subtitle":"Bitte Formular ausfüllen um ein neue Saison zu erstellen.",
+    "button":"Neue Saison",
+    "startDateDatepicker":{
+      "label":"Saison Anfang"
+    },
+    "endDateDatepicker":{
+      "label":"Saison Ende"
+    },
+    "nameTextField":{
+      "label":"Saison Bezeichnung",
+      "hint":"Ein Bezeichnung oder Kurz Beschreibung ausfüllen."
+    },
+    "equipmentSelectField":{
+      "undefined":"Keine Ausrüstung",
+      "label":"Ausrüstung"
+    },
+    "arrowCountTextField":{
+      "label":"Gesamt für KW {{week}}",
+      "hint":"# der Pfeile"
+    },
+    "targetShareTextField":{
+      "label":"Auflage für KW {{week}}",
+      "hint":"# der Pfeile"
+    }
+  },
+
+  "messages":{
+    "newSaved":"Neue Saison würde erfolgreich gespeichert!",
+    "newError":"Neue Saison würde nicht gespeichert!",
+    "listError":"Saisons konnten nicht heruntergeladen werden!",
+    "deleted":"Saison würde erfolgreich gelöscht!",
+    "deletedError":"Saison würde nicht gelöscht!"
+  },
+
+  "graphLabels":{
+    "data":{
+      "totalPlan":"Vorgabe Gesamt",
+      "techniqueTotals":"Schußzahl Technik",
+      "techniqueShare":"Vorgabe Auflage",
+      "targetTotals":"Schußzahl Auflage",
+      "resultTotals":"⌀ Ringzahl",
+      "strengthTraining":"Krafttraining"
+    }
+  },
+  "tile":{
+    "subtitle":"{{start,dateLong}} bis {{end,dateLong}}"
+  }
+}

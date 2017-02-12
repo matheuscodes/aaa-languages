@@ -1,0 +1,37 @@
+{
+  "appBarTitle":"Trainingsberichte",
+  "cardTitle":"Monatliche Saison Trainingsbericht",
+  "cardSubtitle":"Eingehende und tägliche Infos bezüglich Trainings und Leistungskontrolle",
+  "tableTitle":"{{date,monthLong}}",
+  "dailyGraphTitle":"Täglich Übersicht",
+  "seasonGraphTitle":"Saison Übersicht",
+  "seasonSelectField":{
+    "label":"Saison"
+  },
+  "yearSelectField":{
+    "label":"Jahr"
+  },
+  "monthSelectField":{
+    "label":"Monat"
+  },
+  "noneSelected":"Kein Trainingsbericht ausgewählt",
+  "warmUps":"Einschießen",
+  "warmUpsDistance":"{{distance}}m",
+  "trainingsDistance":"{{distance}}m",
+  "trainingsGroup":{
+    "BOARD":"Tafel",
+    "TARGET":"Zielpunkt",
+    "ASSESSMENT":"Auflage"
+  },
+  "warmOuts":"Ausschießen",
+  "warmOutsDistance":"{{distance}}m",
+  "techniqueDaily":"Summe Technikschüsse",
+  "totalDaily":"Schußzahl gesamt",
+  "techniqueWeekly":"Technikzahl pro Woche",
+  "totalWeekly":"Schußzahl pro Woche",
+  "resultsDistance":"{{distance}}m",
+  "resultsGroup":"Runde {{round}}",
+  "resultsDaily":"⌀ Ringzahl pro Tag",
+  "resultsWeekly":"Wochendurchschnitt",
+  "calendarWeek":"Wochen-Nr."
+}

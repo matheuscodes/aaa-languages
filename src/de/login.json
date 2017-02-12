@@ -1,0 +1,20 @@
+{
+  "appBarTitle": "Willkommen zu Advanced Archery",
+  "photoSubtitle": "Photo von {{author}} - {{provider}}",
+  "messages":{
+    "login":"Einloggen ist erfolgreich!",
+    "loginError":"Oops, es gab ein Problem bei Einloggen!",
+    "logout":"Ausloggen ist erfolgreich!"
+  },
+  "loginButton":{
+    "label":"Einloggen"
+  },
+  "emailTextField":{
+    "label":"Email",
+    "hint":"Email ausfüllen"
+  },
+  "passwordTextField":{
+    "label": "Passwort",
+    "hint": "Passwort ausfüllen"
+  }
+}

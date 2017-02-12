@@ -1,0 +1,69 @@
+{
+  "appTitle":"Advanced Archery App",
+  "logout":"Ausloggen",
+  "footlinks":{
+    "about":"Über diese App",
+    "impressum":"Impressum"
+  },
+  "pageTitle":{
+    "loginPage":"Advanced Archery App",
+    "homePage":"Übersicht (Advanced Archery App)",
+    "seasonsPage":"Saison Verwaltung (Advanced Archery App)",
+    "trainingsPage":"Training Verwaltung (Advanced Archery App)",
+    "assessmentsPage":"Leistungskontrolle Verwaltung (Advanced Archery App)",
+    "reportsPage":"Trainingsberichte (Advanced Archery App)",
+    "helpPage":"Hilfe (Advanced Archery App)",
+    "termsPage":"Impressum (Advanced Archery App)"
+  },
+  "menuDrawer":{
+    "settings":"Einstellungen",
+    "homePage":"Übersicht",
+    "seasonsPage":"Saisons",
+    "trainingsPage":"Trainings",
+    "assessmentsPage":"Leistungskontrollen",
+    "reportsPage":"Trainingsberichte",
+    "helpPage":"Hilfe"
+  },
+  "month":{
+    "short":[
+      "Jan",
+      "Feb",
+      "Mär",
+      "Apr",
+      "Mai",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Okt",
+      "Nov",
+      "Dez"
+    ],
+    "long":[
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember"
+    ]
+  },
+  "graphLabels":{
+    "axis":{
+      "arrow_count":"Anzahl der Pfeile",
+      "results":"⌀ Ringzahl",
+      "ringDistribution": "Anzahl der Pfeile in %"
+    }
+  },
+  "calendar":{
+    "week":{
+      "short":"KW"
+    }
+  }
+}

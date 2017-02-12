@@ -1,0 +1,42 @@
+{
+  "appBarTitle":"Übersicht",
+  "events":{
+    "title":"Events",
+    "subtitle":"Innerhalb nächste Monaten.",
+    "start":"{{date,dateTimeLong}}",
+    "days":"{{count}} Tag.",
+    "days_plural":"{{count}} Tagen."
+  },
+  "year":{
+    "title":"Jahresübersicht",
+    "subtitle":"Schußzahl innerhalb letztes Jahr.",
+    "header":{
+      "year":"Jahr",
+      "month":"Monat",
+      "total":"Gesamt",
+      "grade":"⌀ Ringzahl"
+    }
+  },
+  "arrows":{
+    "title":"Anzahl der Pfeile",
+    "subtitle":"Geschossen in die letzte Trainings.",
+    "date":"{{date,dateLong}}"
+  },
+  "rings":{
+    "title":"Verteilung der Ringzahl",
+    "subtitle":"Prozentsatz der Pfeile pro Ring.",
+    "graph":{
+      "distributionMonth": "Letzten Monat",
+      "distributionQuarter": "Letztes Quartal",
+      "distributionHalf": "Letztes Halbjahr"
+    }
+  },
+  "assessments":{
+    "title":"Leistungsübersicht",
+    "subtitle":"Anzahl der Zehner und ⌀ Ringzahl pro Ende."
+  },
+  "seasons":{
+    "title":"Open Saisons",
+    "subtitle":"Alle eröffnete Saisons"
+  }
+}

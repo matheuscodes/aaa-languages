@@ -1,0 +1,45 @@
+{
+  "appBarTitle":"Training Verwaltung",
+  "previousButton":"Vorige Trainings",
+  "nextButton":"Nächste Trainings",
+  "trainingTypes":{
+    "WARMUP": "Einschießen",
+    "WARMOUT": "Ausschießen",
+    "BOARD": "Tafel",
+    "TARGET": "Zielpunkt"
+  },
+
+  "tile":{
+    "title":"{{totalArrows}} Pfeile geschossen.",
+    "headers":{
+      "distance":"Entfernung"
+    }
+  },
+  "messages":{
+    "newSaved":"Neue Training würde erfolgreich gespeichert!",
+    "newError":"Neue Training würde nicht gespeichert!",
+    "listError":"Trainings konnten nicht heruntergeladen werden!",
+    "emptyError":"Entfernung kann nicht leer sein!",
+    "seasonError":"Saisons konnten nicht heruntergeladen werden!",
+    "deleted":"Training würde erfolgreich gelöscht!",
+    "deletedError":"Training würde nicht gelöscht!"
+  },
+  "newTraining":{
+    "title":"Neue Training",
+    "subtitle":"Bitte Formular ausfüllen um ein neue Training zu erstellen.",
+    "button":"Neue Training",
+    "headers":{
+      "distance":"Entfernung"
+    },
+    "dateDatepicker":{
+      "label":"Datum"
+    },
+    "seasonSelectField":{
+      "label":"Saison"
+    },
+    "distanceTextField":{
+      "label":"Entfernung",
+      "hint":"Entfernung in m"
+    }
+  }
+}
