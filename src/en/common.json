@@ -2,7 +2,7 @@
   "appTitle":"Advanced Archery App",
   "logout":"Logout",
   "footlinks":{
-    "about":"About",
+    "about":"About this App",
     "impressum":"Terms and Conditions"
   },
   "pageTitle":{
@@ -18,9 +18,9 @@
   "menuDrawer":{
     "settings":"Settings",
     "homePage":"Home",
-    "seasonsPage":"Manage Seasons",
-    "trainingsPage":"Manage Trainings",
-    "assessmentsPage":"Manage Assessments",
+    "seasonsPage":"Seasons",
+    "trainingsPage":"Trainings",
+    "assessmentsPage":"Assessments",
     "reportsPage":"Performance Reports",
     "helpPage":"Help"
   },
