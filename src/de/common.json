@@ -2,7 +2,7 @@
   "appTitle":"Advanced Archery App",
   "logout":"Ausloggen",
   "footlinks":{
-    "about":"Über diese App",
+    "about":"Überblick",
     "impressum":"Impressum"
   },
   "pageTitle":{
@@ -13,7 +13,8 @@
     "assessmentsPage":"Leistungskontrolle Verwaltung (Advanced Archery App)",
     "reportsPage":"Trainingsberichte (Advanced Archery App)",
     "helpPage":"Hilfe (Advanced Archery App)",
-    "termsPage":"Impressum (Advanced Archery App)"
+    "termsPage":"Impressum (Advanced Archery App)",
+    "aboutPage":"Überblick (Advanced Archery App)"
   },
   "menuDrawer":{
     "settings":"Einstellungen",
