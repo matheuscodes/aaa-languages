@@ -9,6 +9,23 @@
   "addEnd":"Add end",
   "newEndTitle":"Adding new end",
   "addRound":"Add round",
+  "addTotal":"Add total",
+  "newRound":{
+    "title":"Adding new round",
+    "submit": "Submit Round",
+    "ringsTextField":{
+      "label":"Rings",
+      "hint":"Total ring score"
+    },
+    "arrowsTextField":{
+      "label":"Arrows",
+      "hint":"# of arrows shot"
+    },
+    "endsTextField":{
+      "label":"Ends",
+      "hint":"# of ends"
+    }
+  },
   "previousButton":"Previous Assessments",
   "nextButton":"Next Assessments",
   "detailsButton":"More Details",

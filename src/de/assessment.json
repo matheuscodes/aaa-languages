@@ -9,6 +9,23 @@
   "addEnd":"Passe erstellen",
   "newEndTitle":"Neue Passe absetzen",
   "addRound":"Runde erstellen",
+  "addTotal":"Ringzahl eingeben",
+  "newRound":{
+    "title":"Runde Information",
+    "submit": "Runde einfügen",
+    "ringsTextField":{
+      "label":"Ringzahl",
+      "hint":"Gesamte Ringzahl"
+    },
+    "arrowsTextField":{
+      "label":"Pfeile",
+      "hint":"Gesamte Pfeilzahl"
+    },
+    "endsTextField":{
+      "label":"Passen",
+      "hint":"Wie viele Passen"
+    }
+  },
   "previousButton":"Vorige Leistungskontrolle",
   "nextButton":"Nächste Leistungskontrolle",
   "detailsButton":"Mehr Infos",
