@@ -6,7 +6,11 @@
     "WARMUP": "Warm up",
     "WARMOUT": "Warm out",
     "BOARD": "Board",
-    "TARGET": "Target"
+    "TARGET": "Target point",
+    "TARGET_FACE": "Target face",
+    "STRIPE_HORIZONTAL": "Stripe horizontal",
+    "STRIPE_VERTICAL": "Stripe vertical",
+    "BLIND": "Blind"
   },
 
   "tile":{
@@ -19,6 +23,7 @@
   "messages":{
     "newSaved":"New training was saved!",
     "newError":"New training could not be saved!",
+    "newErrorMissingSeason":"A season is mandatory to the training!",
     "listError":"Trainings could not be loaded!",
     "emptyError":"Distance cannot be empty!",
     "seasonError":"Seasons could not be loaded!",

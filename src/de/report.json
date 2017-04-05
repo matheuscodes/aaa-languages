@@ -21,7 +21,11 @@
   "trainingsGroup":{
     "BOARD":"Tafel",
     "TARGET":"Zielpunkt",
-    "ASSESSMENT":"Auflage"
+    "ASSESSMENT":"Auflage",
+    "TARGET_FACE": "Auflage",
+    "STRIPE_HORIZONTAL": "Streifen waagerecht",
+    "STRIPE_VERTICAL": "Streifen senkrecht",
+    "BLIND": "Blind"
   },
   "warmOuts":"Ausschießen",
   "warmOutsDistance":"{{distance}}m",

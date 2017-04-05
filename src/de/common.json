@@ -1,9 +1,18 @@
 {
   "appTitle":"Advanced Archery App",
   "logout":"Ausloggen",
+  "copyright":{
+    "holger":{
+      "long": "Dieser Trainingsbericht ist basiert auf BB-Trainingsbericht © 2006-2015 Holger Hüning",
+      "short": "Copyright © 2006-2015 Holger Hüning"
+    }
+  },
   "footlinks":{
     "about":"Überblick",
     "impressum":"Impressum"
+  },
+  "messages":{
+    "notLoggedIn":"Nicht eingeloggt!"
   },
   "pageTitle":{
     "loginPage":"Advanced Archery App",

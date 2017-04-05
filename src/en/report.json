@@ -20,8 +20,12 @@
   "trainingsDistance":"{{distance}}m",
   "trainingsGroup":{
     "BOARD":"Board",
-    "TARGET":"Target",
-    "ASSESSMENT":"Assessment"
+    "TARGET":"Target point",
+    "ASSESSMENT":"Assessment",
+    "TARGET_FACE": "Target face",
+    "STRIPE_HORIZONTAL": "Stripe horizontal",
+    "STRIPE_VERTICAL": "Stripe vertical",
+    "BLIND": "Blind"
   },
   "warmOuts":"Warm Outs",
   "warmOutsDistance":"{{distance}}m",
