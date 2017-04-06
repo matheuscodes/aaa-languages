@@ -21,7 +21,7 @@
   "trainingsGroup":{
     "BOARD":"Tafel",
     "TARGET":"Zielpunkt",
-    "ASSESSMENT":"Auflage",
+    "ASSESSMENT":"Auflage mit LK",
     "TARGET_FACE": "Auflage",
     "STRIPE_HORIZONTAL": "Streifen waagerecht",
     "STRIPE_VERTICAL": "Streifen senkrecht",
