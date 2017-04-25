@@ -25,6 +25,12 @@
     "targetShareTextField":{
       "label":"Target # wk {{week}}",
       "hint":"# of arrows"
+    },
+    "events":{
+      "subheader":"Events",
+      "noEvents":"No events found on the given dates.",
+      "primaryText":"{{name}} ({{nameShort}})",
+      "secondaryText":"{{date,dateLong}}"
     }
   },
 
@@ -33,7 +39,9 @@
     "newError":"New season could not be saved!",
     "listError":"Season could not be loaded!",
     "deleted":"Season was deleted!",
-    "deletedError":"Season could not be deleted!"
+    "deletedError":"Season could not be deleted!",
+    "registerSuccess":"Registration status was changed!",
+    "registerError":"Registration status could not be changed!"
   },
 
   "graphLabels":{

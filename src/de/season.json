@@ -25,6 +25,12 @@
     "targetShareTextField":{
       "label":"Auflage für KW {{week}}",
       "hint":"# der Pfeile"
+    },
+    "events":{
+      "subheader":"Events",
+      "noEvents":"Kein Event gefunden in der Zeitraum.",
+      "primaryText":"{{name}} ({{nameShort}})",
+      "secondaryText":"{{date,dateLong}}"
     }
   },
 
@@ -33,7 +39,9 @@
     "newError":"Neue Saison würde nicht gespeichert!",
     "listError":"Saisons konnten nicht heruntergeladen werden!",
     "deleted":"Saison würde erfolgreich gelöscht!",
-    "deletedError":"Saison würde nicht gelöscht!"
+    "deletedError":"Saison würde nicht gelöscht!",
+    "registerSuccess":"Anmeldung würde geändert!",
+    "registerError":"Anmeldung könnte nicht geändert werden!"
   },
 
   "graphLabels":{
