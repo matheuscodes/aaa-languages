@@ -31,6 +31,11 @@
       "noEvents":"Kein Event gefunden in der Zeitraum.",
       "primaryText":"{{name}} ({{nameShort}})",
       "secondaryText":"{{date,dateLong}}"
+    },
+    "trainers":{
+      "subheader":"Trainer Zugang",
+      "noTrainers":"Kein Trainer.",
+      "primaryText":"{{trainerName}} genehmigen"
     }
   },
 
@@ -41,7 +46,9 @@
     "deleted":"Saison würde erfolgreich gelöscht!",
     "deletedError":"Saison würde nicht gelöscht!",
     "registerSuccess":"Anmeldung würde geändert!",
-    "registerError":"Anmeldung könnte nicht geändert werden!"
+    "registerError":"Anmeldung könnte nicht geändert werden!",
+    "permissionSuccess":"Genehmigung ist geändert!",
+    "permissionError":"Genehmigung ist nicht geändert!"
   },
 
   "graphLabels":{

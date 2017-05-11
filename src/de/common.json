@@ -23,7 +23,8 @@
     "reportsPage":"Trainingsberichte (Advanced Archery App)",
     "helpPage":"Hilfe (Advanced Archery App)",
     "termsPage":"Impressum (Advanced Archery App)",
-    "aboutPage":"Überblick (Advanced Archery App)"
+    "aboutPage":"Überblick (Advanced Archery App)",
+    "trainerReportsPage":"Trainer: Schützen Leistungen (Advanced Archery App)"
   },
   "menuDrawer":{
     "settings":"Einstellungen",
@@ -32,7 +33,11 @@
     "trainingsPage":"Trainings",
     "assessmentsPage":"Leistungskontrollen",
     "reportsPage":"Trainingsberichte",
-    "helpPage":"Hilfe"
+    "helpPage":"Hilfe",
+    "trainer":{
+      "trainerAreaTitle":"Trainer Bereich",
+      "trainerReportsPage":"Schützen Leistungen"
+    }
   },
   "month":{
     "short":[

@@ -1,0 +1,9 @@
+{
+  "report": {
+    "appBarTitle":"Trainer: Schützen Leistung",
+    "archerAutoComplete":{
+      "label": "Schützen",
+      "error": "Es gibt keine Schützen."
+    }
+  }
+}

@@ -23,7 +23,8 @@
     "reportsPage":"Performance Reports (Advanced Archery App)",
     "helpPage":"Help (Advanced Archery App)",
     "termsPage":"Terms and Conditions (Advanced Archery App)",
-    "aboutPage":"About (Advanced Archery App)"
+    "aboutPage":"About (Advanced Archery App)",
+    "trainerReportsPage":"Trainer: Archer Performances (Advanced Archery App)"
   },
   "menuDrawer":{
     "settings":"Settings",
@@ -32,7 +33,11 @@
     "trainingsPage":"Trainings",
     "assessmentsPage":"Assessments",
     "reportsPage":"Performance Reports",
-    "helpPage":"Help"
+    "helpPage":"Help",
+    "trainer":{
+      "trainerAreaTitle":"Trainer Area",
+      "trainerReportsPage":"Archer Performances"
+    }
   },
   "month":{
     "short":[

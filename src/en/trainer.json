@@ -1,0 +1,9 @@
+{
+  "report": {
+    "appBarTitle":"Trainer: Archer Performances",
+    "archerAutoComplete":{
+      "label": "Archer",
+      "error": "This is no valid archer."
+    }
+  }
+}

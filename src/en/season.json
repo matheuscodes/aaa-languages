@@ -31,6 +31,11 @@
       "noEvents":"No events found on the given dates.",
       "primaryText":"{{name}} ({{nameShort}})",
       "secondaryText":"{{date,dateLong}}"
+    },
+    "trainers":{
+      "subheader":"Trainer Permissions",
+      "noTrainers":"No trainers.",
+      "primaryText":"Allow {{trainerName}}"
     }
   },
 
@@ -41,7 +46,9 @@
     "deleted":"Season was deleted!",
     "deletedError":"Season could not be deleted!",
     "registerSuccess":"Registration status was changed!",
-    "registerError":"Registration status could not be changed!"
+    "registerError":"Registration status could not be changed!",
+    "permissionSuccess":"Permission was changed!",
+    "permissionError":"Permission could not be changed!"
   },
 
   "graphLabels":{
