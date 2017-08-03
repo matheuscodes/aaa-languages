@@ -75,7 +75,25 @@
     },
     "shootDirectionSelector":{
       "hint":"Shoot direction"
-    }
+    },
+    "baseStep": {
+      "title": "Base information"
+    },
+    "weatherStep": {
+      "title": "Weather information"
+
+    },
+    "roundStep": {
+      "title": "Round {{order}}",
+      "undoEnd": "Undo"
+    },
+    "confirmStep": {
+      "title": "Confirmation"
+    },
+    "next": "Next",
+    "back": "Back",
+    "new": "New",
+    "finish": "Finish"
   },
   "report":{
     "title":"{{date,dateLong}} at {{distance}}m",

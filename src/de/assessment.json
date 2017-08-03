@@ -30,8 +30,8 @@
   "nextButton":"Nächste Leistungskontrolle",
   "detailsButton":"Mehr Infos",
   "messages":{
-    "newSaved":"Neue Leistungskontrolle würde erfolgreich gespeichert!",
-    "newError":"Neue Leistungskontrolle würde nicht gespeichert!",
+    "newSaved":"Die neue Leistungskontrolle wurde erfolgreich gespeichert!",
+    "newError":"Die neue Leistungskontrolle wurde nicht gespeichert!",
     "listError":"Leistungskontrollen konnten nicht heruntergeladen werden!",
     "deleted":"Leistungskontrolle würde erfolgreich gelöscht!",
     "deletedError":"Leistungskontrolle würde nicht gelöscht!"
@@ -41,7 +41,7 @@
   },
   "newAssessment":{
     "title":"Neue Leistungskontrolle",
-    "subtitle":"Bitte Formular ausfüllen um ein neue Leistungskontrolle zu erstellen.",
+    "subtitle":"Bitte Formular ausfüllen um ein neues Leistungskontrolle zu erstellen.",
     "button":"Neue Leistungskontrolle",
     "seasonSelectField":{
       "label":"Saison"
@@ -75,7 +75,25 @@
     },
     "shootDirectionSelector":{
       "hint":"Schießrichtung"
-    }
+    },
+    "baseStep": {
+      "title": "Grundinformationen"
+    },
+    "weatherStep": {
+      "title": "Wetterinformationen"
+
+    },
+    "roundStep": {
+      "title": "Durchgang {{order}}",
+      "undoEnd": "Entfernen"
+    },
+    "confirmStep": {
+      "title": "Bestätigung"
+    },
+    "next": "Nächste",
+    "back": "Zurück",
+    "new": "Neuer Durchgang",
+    "finish": "Beenden"
   },
   "report":{
     "title":"{{date,dateLong}} bei {{distance}}m",

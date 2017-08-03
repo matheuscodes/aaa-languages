@@ -40,8 +40,8 @@
   },
 
   "messages":{
-    "newSaved":"Neue Saison würde erfolgreich gespeichert!",
-    "newError":"Neue Saison würde nicht gespeichert!",
+    "newSaved":"Die neue Saison wurde erfolgreich gespeichert!",
+    "newError":"Die neue Saison wurde nicht gespeichert!",
     "listError":"Saisons konnten nicht heruntergeladen werden!",
     "deleted":"Saison würde erfolgreich gelöscht!",
     "deletedError":"Saison würde nicht gelöscht!",

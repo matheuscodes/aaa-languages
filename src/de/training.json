@@ -20,9 +20,9 @@
     }
   },
   "messages":{
-    "newSaved":"Neue Training würde erfolgreich gespeichert!",
-    "newError":"Neue Training würde nicht gespeichert!",
-    "newErrorMissingSeason":"Es fehlt ein Saison fürs Training!",
+    "newSaved":"Das neue Training wurde erfolgreich gespeichert!",
+    "newError":"Das neue Training wurde nicht gespeichert!",
+    "newErrorMissingSeason":"Bitte eine Saison auswählen",
     "listError":"Trainings konnten nicht heruntergeladen werden!",
     "emptyError":"Entfernung kann nicht leer sein!",
     "seasonError":"Saisons konnten nicht heruntergeladen werden!",
@@ -30,9 +30,9 @@
     "deletedError":"Training würde nicht gelöscht!"
   },
   "newTraining":{
-    "title":"Neue Training",
-    "subtitle":"Bitte Formular ausfüllen um ein neue Training zu erstellen.",
-    "button":"Neue Training",
+    "title":"Neues Training",
+    "subtitle":"Bitte Formular ausfüllen um ein neues Training zu erstellen.",
+    "button":"Neues Training",
     "headers":{
       "distance":"Entfernung"
     },
