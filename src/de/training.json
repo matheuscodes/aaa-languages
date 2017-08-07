@@ -13,6 +13,17 @@
     "BLIND": "Blind"
   },
 
+  "arrowTrainingTypes":{
+    "WARMUP": "Einschießen",
+    "WARMOUT": "Ausschießen",
+    "BOARD": "Tafel",
+    "TARGET": "Zielpunkt",
+    "TARGET_FACE": "Auflage",
+    "STRIPE_HORIZONTAL": "Streifen waagerecht",
+    "STRIPE_VERTICAL": "Streifen senkrecht",
+    "BLIND": "Blind"
+  },
+
   "tile":{
     "title":"{{totalArrows}} Pfeile geschossen.",
     "headers":{
@@ -24,7 +35,8 @@
     "newError":"Das neue Training wurde nicht gespeichert!",
     "newErrorMissingSeason":"Bitte eine Saison auswählen",
     "listError":"Trainings konnten nicht heruntergeladen werden!",
-    "emptyError":"Entfernung kann nicht leer sein!",
+    "emptyError":"Entfernung darf nicht leer sein!",
+    "notANumberError":"Entfernung darf nur im Zahlen sein!",
     "seasonError":"Saisons konnten nicht heruntergeladen werden!",
     "deleted":"Training würde erfolgreich gelöscht!",
     "deletedError":"Training würde nicht gelöscht!"
@@ -45,6 +57,43 @@
     "distanceTextField":{
       "label":"Entfernung",
       "hint":"Entfernung in m"
-    }
+    },
+    "baseStep": {
+      "title": "Grundinformationen",
+      "classes": {
+        "arrows": "Schießtraining",
+        "workouts": "Konditionstraining",
+        "neurobics": "Mental Training"
+      }
+    },
+    "ArrowsSteps": {
+      "TypesStep": {
+        "title": "Art und Weise eingeben"
+      },
+      "DistancesStep": {
+        "title": "Entfernung eingeben"
+      },
+      "InputStep": {
+        "title": "Pfeil Zahl eingeben"
+      }
+    },
+    "WorkoutSteps": {
+      "WorkoutStep": {
+        "title": "Konditionstraining eingeben"
+      },
+      "comingSoon": "Funktion noch nicht eingebaut. Es kommt im September."
+    },
+    "NeurobicsSteps": {
+      "NeurobicsStep": {
+        "title": "Mental Training eingeben"
+      },
+      "comingSoon": "Funktion noch nicht eingebaut. Es kommt im September."
+    },
+    "confirmStep": {
+      "title": "Bestätigung"
+    },
+    "next": "Nächste",
+    "back": "Zurück",
+    "finish": "Beenden"
   }
 }

@@ -13,6 +13,17 @@
     "BLIND": "Blind"
   },
 
+  "arrowTrainingTypes":{
+    "WARMUP": "Warm up",
+    "WARMOUT": "Warm out",
+    "BOARD": "Board",
+    "TARGET": "Target point",
+    "TARGET_FACE": "Target face",
+    "STRIPE_HORIZONTAL": "Stripe horizontal",
+    "STRIPE_VERTICAL": "Stripe vertical",
+    "BLIND": "Blind"
+  },
+
   "tile":{
     "title":"{{totalArrows}} arrows shot.",
     "headers":{
@@ -26,6 +37,7 @@
     "newErrorMissingSeason":"A season is mandatory to the training!",
     "listError":"Trainings could not be loaded!",
     "emptyError":"Distance cannot be empty!",
+    "notANumberError":"Distance must be a number!",
     "seasonError":"Seasons could not be loaded!",
     "deleted":"Training was deleted!",
     "deletedError":"Training could not be deleted!"
@@ -46,6 +58,44 @@
     "distanceTextField":{
       "label":"Distance",
       "hint":"Distance in m"
-    }
+    },
+    "baseStep": {
+      "title": "Base information",
+      "classes": {
+        "arrows": "Arrows",
+        "workouts": "Workouts",
+        "neurobics": "Neurobics"
+      }
+    },
+    "ArrowsSteps": {
+      "TypesStep": {
+        "title": "Shooting methods"
+      },
+      "DistancesStep": {
+        "title": "Distances shot"
+      },
+      "InputStep": {
+        "title": "Insert arrow counts"
+      }
+    },
+    "WorkoutSteps": {
+      "WorkoutStep": {
+        "title": "Insert workout trainings"
+      },
+      "comingSoon": "This feature is not implemented yet. Coming in September."
+    },
+    "NeurobicsSteps": {
+      "NeurobicsStep": {
+        "title": "Insert mental trainings"
+      },
+      "comingSoon": "This feature is not implemented yet. Coming in September."
+    },
+    "confirmStep": {
+      "title": "Confirmation"
+    },
+    "next": "Next",
+    "back": "Back",
+    "new": "New",
+    "finish": "Finish"
   }
 }
