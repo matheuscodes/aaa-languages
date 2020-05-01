@@ -1,10 +1,17 @@
 {
   "appBarTitle": "Welcome to Advanced Archery",
+  "resetAppBarTitle": "Reset Password",
+  "newLoginAppBarTitle": "New Account",
+  "confirmLoginAppBarTitle": "Confirm Account",
   "photoSubtitle": "Photo by {{author}} - {{provider}}",
   "messages":{
     "login":"You were successfully logged in!",
     "loginError":"Oops, there was a problem with the login!",
-    "logout":"You were successfully logged out!"
+    "createError": "Oops, we could not create an account!",
+    "resetError":"Oops, we could not reset the password, the token has expired!",
+    "logout":"You were successfully logged out!",
+    "reset": "Your reset request was processed",
+    "newLogin": "Your account was successfully created"
   },
   "loginButton":{
     "label":"Login"
@@ -15,6 +22,56 @@
   },
   "passwordTextField":{
     "label": "Password",
-    "hint": "Type in your password"
+    "hint": "Type in your password",
+    "errorShort": "The password is too short",
+    "errorNotSecure": "The password is not secure, make sure to mix at least one of each of the following group of characters [a-z] [A-Z] [0-9]"
+  },
+  "passwordForgotten": "Forgot your password?",
+  "forgottenInstructionText": "Please provide the Email linked with the account.",
+  "forgottenButton": {
+    "label": "Reset Password"
+  },
+  "forgottenConfirmationText": "We have sent a reset link to your email. Please make sure to check your spam folder as well.",
+  "changePasswordInstructionText": "Please provide a new password.",
+  "changePassword": {
+    "label": "Change Password"
+  },
+  "newLoginButton": {
+    "label": "Create an Account"
+  },
+  "newLoginInstructionText":"In order to create your account, please fill in the required information. An Email will be send with a link to confirm your registration, please make sure to check your spam folder if you don't get it, as unconfirmed accounts will be deleted after one week.",
+  "fullNameTextField": {
+    "label": "Full Name"
+  },
+  "birthYearTextField": {
+    "label": "Year of birth"
+  },
+  "loginGenderSelectField": {
+    "label": "Gender"
+  },
+  "genderMenuItem": {
+    "male": "Male",
+    "female": "Female",
+    "other": "Non-binary"
+  },
+  "confirmPasswordTextField": {
+    "label": "Confirm Password",
+    "errorMatch": "The password does not match."
+  },
+  "termsConfirmation": "I confirm that I have read and accept the",
+  "terms": "Terms and Conditions",
+  "confirmation": {
+    "waiting": {
+      "title": "Confirming Email...",
+      "message": "Your email is being confirmed..."
+    },
+    "success": {
+      "title": "Email is confirmed!",
+      "message": "Thank you, we could successfully confirm the email in your account."
+    },
+    "failure": {
+      "title": "Email is not confirmed",
+      "message": "There was a problem and the email in your account could not be confirmed. Please contact us soon as possible to avoid the account deletion."
+    }
   }
 }

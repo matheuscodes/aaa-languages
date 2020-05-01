@@ -1,10 +1,17 @@
 {
   "appBarTitle": "Willkommen zu Advanced Archery",
+  "resetAppBarTitle": "Passwort Zurücksetzen",
+  "newLoginAppBarTitle": "Konto Erstellen",
+  "confirmLoginAppBarTitle": "Konto Bestätigen",
   "photoSubtitle": "Photo von {{author}} - {{provider}}",
   "messages":{
     "login":"Einloggen ist erfolgreich!",
     "loginError":"Oops, es gab ein Problem bei Einloggen!",
-    "logout":"Ausloggen ist erfolgreich!"
+    "createError": "Oops, wir konnten ein Konto nicht erstellen!",
+    "resetError":"Oops, wir konnten dein Passwort nicht zurücksetzen, das Token ist abgelaufen!",
+    "logout":"Ausloggen ist erfolgreich!",
+    "reset": "Dein Zurücksetzen war bearbeitet",
+    "newLogin": "Dein Konto war erfolgreich erstellt"
   },
   "loginButton":{
     "label":"Einloggen"
@@ -15,6 +22,56 @@
   },
   "passwordTextField":{
     "label": "Passwort",
-    "hint": "Passwort ausfüllen"
+    "hint": "Passwort ausfüllen",
+    "errorShort": "Das Passwort ist zu kurz",
+    "errorNotSecure": "Das Passwort ist nicht sicher, bitte mindestens eines der folgenden Zeichengruppen mischen [a-z] [A-Z] [0-9]"
+  },
+  "passwordForgotten": "Passwort vergessen?",
+  "forgottenInstructionText": "Bitte gib die Email Adresse ein, mit der du Dich registriert hast.",
+  "forgottenButton": {
+    "label": "Passwort zurücksetzen"
+  },
+  "forgottenConfirmationText": "Wir haben Dir ein Email gesendet, mit dem Du Dein Passwort zurücksetzen kannst. Bitte auch in der Spam-Ordner checken!",
+  "changePasswordInstructionText": "Bitte gib das neue Passwort ein",
+  "changePassword": {
+    "label": "Passwort ändern"
+  },
+  "newLoginButton": {
+    "label": "Konto Anlegen"
+  },
+  "newLoginInstructionText":"Um ein Konto zu erstellen, geb bitte die erforderlichen Informationen ein. Wir senden eine E-Mail mit einem Link zur Bestätigung dieser Registrierung. Bitte auch in der Spam-Ordner checken, wenn nicht erhalten, da unbestätigte Konten nach einer Woche gelöscht werden.",
+  "fullNameTextField": {
+    "label": "Volle Name"
+  },
+  "birthYearTextField": {
+    "label": "Geburtsjahr"
+  },
+  "loginGenderSelectField": {
+    "label": "Gender"
+  },
+  "genderMenuItem": {
+    "male": "männlich",
+    "female": "weiblich",
+    "other": "non-binär"
+  },
+  "confirmPasswordTextField": {
+    "label": "Passwort bestätigen",
+    "errorMatch": "Die Eingaben sind nicht gleich."
+  },
+  "termsConfirmation": " Ich habe die AGB und Datenschutzerklärung gelesen und stimme zu",
+  "terms": "(AGB und Datenschutzerklärung)",
+  "confirmation": {
+    "waiting": {
+      "title": "Email Bestätigung...",
+      "message": "Dein Email wird bestätigt..."
+    },
+    "success": {
+      "title": "Email bestätigt!",
+      "message": "Vielen Dank, wir haben der Email in dein Konto erfolgreich bestätigt."
+    },
+    "failure": {
+      "title": "Email ist nicht bestätigt",
+      "message": "Es gab ein Problem und die EMail in deinem Konto konnte nicht bestätigt werden. Bitte uns kontaktieren so schnell wie möglich, um das Löschen des Kontos zu vermeiden."
+    }
   }
 }
