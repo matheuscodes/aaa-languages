@@ -80,5 +80,10 @@
     "week":{
       "short":"CW"
     }
+  },
+  "cookies": {
+    "title":"Cookies und LocalStorage",
+    "message": "This website uses Cookies to enable, analyze and test the website. Under the Data Protection terms you will receive further information and rights to deactivate these cookies.",
+    "link": "The Data Protection terms you can find here."
   }
 }

@@ -80,5 +80,10 @@
     "week":{
       "short":"KW"
     }
+  },
+  "cookies": {
+    "title":"Cookies und LocalStorage",
+    "message": "Diese Webseite verwendet u.a. Cookies zur Ermöglichen, Analysieren und Testen der Webseite. Unter Datenschutz erhaltest du Weitere Informationen und Rechte, diese Cookies auszuschalten.",
+    "link": "Die Datenschutzerklärung findest du hier."
   }
 }
