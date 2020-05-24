@@ -39,6 +39,17 @@
       "trainerReportsPage":"Schützen Leistungen"
     }
   },
+  "weekday": {
+    "long":[
+      "Sontag",
+      "Montag",
+      "Dienstag",
+      "Mittwoch",
+      "Donnerstag",
+      "Freitag",
+      "Samstag"
+    ]
+  },
   "month":{
     "short":[
       "Jan",

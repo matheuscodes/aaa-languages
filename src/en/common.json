@@ -39,6 +39,17 @@
       "trainerReportsPage":"Archer Performances"
     }
   },
+  "weekday": {
+    "long":[
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ]
+  },
   "month":{
     "short":[
       "Jan",

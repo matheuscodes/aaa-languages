@@ -28,7 +28,8 @@
     "graph":{
       "distributionMonth": "Last month",
       "distributionQuarter": "Last quarter",
-      "distributionHalf": "Last half"
+      "distributionHalf": "Last half",
+      "distributionYear": "Last year"
     }
   },
   "assessments":{
