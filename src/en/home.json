@@ -1,5 +1,8 @@
 {
   "appBarTitle":"General Overview",
+  "messages": {
+    "getError": "Error trying to get data."
+  },
   "events":{
     "title":"Events",
     "subtitle":"Within next months.",

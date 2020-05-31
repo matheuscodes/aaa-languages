@@ -1,5 +1,8 @@
 {
   "appBarTitle":"Übersicht",
+  "messages": {
+    "getError": "Es ist ein Fehler aufgetreten."
+  },
   "events":{
     "title":"Events",
     "subtitle":"Innerhalb nächste Monaten.",
