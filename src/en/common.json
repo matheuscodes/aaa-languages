@@ -36,7 +36,9 @@
     "helpPage":"Help",
     "trainer":{
       "trainerAreaTitle":"Trainer Area",
-      "trainerReportsPage":"Archer Performances"
+      "trainerReportsPage":"Performances",
+      "trainerPupilsPage": "Archers",
+      "trainerRequestsPage": "Requests"
     }
   },
   "weekday": {

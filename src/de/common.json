@@ -36,7 +36,9 @@
     "helpPage":"Hilfe",
     "trainer":{
       "trainerAreaTitle":"Trainer Bereich",
-      "trainerReportsPage":"Schützen Leistungen"
+      "trainerReportsPage":"Trainingsberichte",
+      "trainerPupilsPage": "Schützen",
+      "trainerRequestsPage": "Anfragen"
     }
   },
   "weekday": {

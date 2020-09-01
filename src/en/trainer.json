@@ -5,5 +5,73 @@
       "label": "Archer",
       "error": "This is no valid archer."
     }
+  },
+  "trainerRequestsAppBarTitle": "Trainer: Requests",
+  "trainerArchersAppBarTitle": "Trainer: Archers",
+  "trainerReportsAppBarTitle": "Trainer: Performances",
+  "styles": {
+    "RECURVE": "Recurve"
+  },
+  "classes": {
+    "-10": "Schüler C",
+    "11_12": "Schüler B",
+    "13_14": "Schüler A",
+    "15_17": "Jugend",
+    "18_20": "Junioren",
+    "21_49": "Erwachsen",
+    "50_65": "Master",
+    "66+": "Senioren"
+  },
+  "tile": {
+    "request": "Send",
+    "subtitle": "Trainer",
+    "licenses": "Licenses",
+    "styles": "Bow styles",
+    "message": "Message",
+    "classes": "Classes",
+    "status": {
+      "NEW": "New",
+      "APPROVED": "Approved",
+      "REJECTED": "Rejected"
+    }
+  },
+  "archers": {
+    "listError": "Cannot list archers!",
+    "saveError": "Cannot save!",
+    "title": "Archers",
+    "subtitle": "Archers which are currently being trained or coached."
+
+  },
+  "reports": {
+    "listPupilsError":  "Cannot list archers!",
+    "listSeasonsError": "Cannot list seasons!"
+  },
+  "report": {
+    "cardTitle": "Archer Performance",
+    "cardSubtitle": "Performance reports for archers",
+    "pupilSelectField": {
+      "label": "Select the archer"
+    }
+  },
+  "archer": {
+    "tile":{
+      "notes": {
+        "title": "Notes",
+        "subtitle": "Notes about the archer and training",
+        "private-label": "Private notes about the archer (only for you)",
+        "save": "Save"
+      }
+    }
+  },
+  "request": {
+    "approve": "Approve",
+    "reject": "Reject"
+  },
+  "requests": {
+    "title": "Training Requests",
+    "subtitle": "Archers who requested training.",
+    "listError": "Cannot list requests!",
+    "rejectError": "Cannot reject request!",
+    "approveError": "Cannot approve request!"
   }
 }

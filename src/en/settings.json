@@ -1,0 +1,13 @@
+{
+  "appBarTitle": "Settings",
+  "trainer": {
+    "new": {
+      "error": "Could not load trainers!",
+      "title": "Available Trainers",
+      "subtitle": "List of trainers which are accepting requests."
+    },
+    "title": "Trainers",
+    "subtitle": "Here you find information about your trainers",
+    "newTrainerButton": "Request a new trainer"
+  }
+}

@@ -5,5 +5,73 @@
       "label": "Schützen",
       "error": "Es gibt keine Schützen."
     }
+  },
+  "trainerRequestsAppBarTitle": "Trainer: Anfragen",
+  "trainerArchersAppBarTitle": "Trainer: Schützen",
+  "trainerReportsAppBarTitle": "Trainer: Trainingsberichte",
+  "styles": {
+    "RECURVE": "Recurve"
+  },
+  "classes": {
+    "-10": "Schüler C",
+    "11_12": "Schüler B",
+    "13_14": "Schüler A",
+    "15_17": "Jugend",
+    "18_20": "Junioren",
+    "21_49": "Erwachsen",
+    "50_65": "Master",
+    "66+": "Senioren"
+  },
+  "tile": {
+    "request": "Senden",
+    "subtitle": "Trainer",
+    "licenses": "Lizenzen",
+    "styles": "Bogenart",
+    "message": "Nachricht",
+    "classes": "Klassen",
+    "status": {
+      "NEW": "Neu",
+      "APPROVED": "Zugestimmt",
+      "REJECTED": "Abgelehnt"
+    }
+  },
+  "archers": {
+    "listError": "Könnte nicht Schützen laden!",
+    "saveError": "Könnte nicht speichern!",
+    "title": "Bogenschützen",
+    "subtitle": "Bogenschützen, die derzeit trainiert oder trainiert werden."
+
+  },
+  "reports": {
+    "listPupilsError":  "Könnte nicht Schützen laden!",
+    "listSeasonsError": "Könnte nicht Saisons laden!"
+  },
+  "report": {
+    "cardTitle": "Trainingsberichte",
+    "cardSubtitle": "Trainingsberichte für Bogenschützen.",
+    "pupilSelectField": {
+      "label": "Bogenschützen wählen"
+    }
+  },
+  "archer": {
+    "tile":{
+      "notes": {
+        "title": "Notizen",
+        "subtitle": "Hinweise zum Schützen und Training",
+        "private-label": "Private Notizen über den Bogenschützen (nur für dich)",
+        "save": "Speichern"
+      }
+    }
+  },
+  "request": {
+    "approve": "Zustimmen",
+    "reject": "Ablehnen"
+  },
+  "requests": {
+    "title": "Trainingsanfragen",
+    "subtitle": "Bogenschützen, die um Begleitung gebeten haben.",
+    "listError": "Könnte nicht Anfragen laden!",
+    "rejectError": "Könnte nicht Anfrage zustimmen!",
+    "approveError": "Könnte nicht Anfrage ablehnen!"
   }
 }
